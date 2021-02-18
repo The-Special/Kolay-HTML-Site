@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: auto;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+
+button{
+    background-color:  hsl(0, 88%, 35%);
+    color:#ffffff;
+    padding:3px;
+    border:2px #a30606 solid;
+    font-size:1em;
+    border-radius: 5px;
+
+}
