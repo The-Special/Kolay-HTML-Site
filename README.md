@@ -1,8 +1,8 @@
-# Basic Website Starter
+# Yeni başlayanlar için Kolay HTML Site:
 
-HTML/CSS/JS Website.
+HTML/CSS/JS ile yazılacak siteler için kullanılabilir.
 
-## About
+## Bu Dosya Hakkında:
 
 Bu dosya temel bir HTML sitesi oluşturmanıza yardım eder.
 
@@ -22,9 +22,8 @@ Bu dosyada bir site oluşturmak için gereken dosyaları mevcuttur.
 
 Bu şekilde faviconunuzu kullanabilirsiniz.`
 
-## Why
 
-### The HTML
+### HTML
 
 - `<!DOCTYPE html>` Tarayıcıya aşağıdakilerin html kodu olduğunu bildirmek için bir HTML dosyasının başlangıcında gerekir.
 
@@ -36,7 +35,7 @@ Bu şekilde faviconunuzu kullanabilirsiniz.`
 
 - Dosyaya JavaScript ve CSS dosyası ekledim ve bunlar siz kodlarınızı eklediğinizde düzgün çalışacaktır.
 
- ## The CSS
+ ## CSS
 
 - `box-sizing: border-box;` öğelerin boyutunu hesaplamak içi kulllanılır ve size daha güzel bir boyut ayarlar.
 
