@@ -47,3 +47,4 @@ Bu şekilde faviconunuzu kullanabilirsiniz.
 # Hediye :
 
 - Sizler için eğer ilginize çekerse diye bir animasyonlu yazı komutu bıraktım. Temelleri attıktan sonra bu kodu nasıl kullanıcağınızı anlayacağınıza inanıyorum.
+- Eğer yardıma ihtiyacınız olursa profilimdeki linkler üzerinden bana ulaşabilirsiniz.
