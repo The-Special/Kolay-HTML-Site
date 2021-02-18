@@ -1,0 +1,71 @@
+HTML:
+<svg viewBox= "0 0 960 300">
+  <symbol id="s-text">
+    <text text-anchor="middle" x="100%" y="%100">I'm Special</text>
+  </symbol>
+  <g class="g-ants">
+  <use xlink:href="#s-text" class="animationText"></use>
+  <use xlink:href="#s-text" class="animationText"></use>
+  <use xlink:href="#s-text" class="animationText"></use>
+  <use xlink:href="#s-text" class="animationText"></use>
+  <use xlink:href="#s-text" class="animationText"></use>
+  </g>
+</svg>
+
+CSS:
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html , body {
+    height: 100%;
+    font-weight: 100%;
+}
+
+body{
+    background:#0f0f11;
+    font-family: Arial;
+}
+svg{
+    display: block;
+    font: 8em 'Montserrat';
+    height: 300px;
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.animationText{
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5% infinite linear;
+}
+
+.animationText:nth-child(1){
+    stroke: #4d163d;
+    animation-delay: -1s;
+}
+
+.animationText:nth-child(2){
+    stroke: #840037;
+    animation-delay: -2s;
+}
+
+.animationText:nth-child(3){
+    stroke: #BD0034;
+    animation-delay: -3s;
+}
+
+.animationText:nth-child(4){
+    stroke: #BD0034;
+    animation-delay: -4s;
+}
+
+.animationText:nth-child(5){
+    stroke: #fdb731;
+    animation-delay: -5s;
+}
+
+@keyframes stroke-offset {
+    100% {stroke-dashoffset: -35%;}
+}
