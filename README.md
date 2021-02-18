@@ -16,11 +16,11 @@ Bu dosyada bir site oluşturmak için gereken dosyaları mevcuttur.
 
 - Favicon tasarımınızı en güzel ve etkileyici şekilde oluşturarak web sitenizi daha güzel ve daha zengin hale getirebilirsiniz.
 
-`Favicon'un kullanım örneği:
+**Favicon'un kullanım örneği:
 
-<link rel= “shortcut icon” href=” /favicon.ico” type=” image/x-icon” />
+`<link rel= “shortcut icon” href=” /favicon.ico” type=” image/x-icon” />`
 
-Bu şekilde faviconunuzu kullanabilirsiniz.`
+Bu şekilde faviconunuzu kullanabilirsiniz.**
 
 
 ### HTML
