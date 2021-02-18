@@ -1,8 +1,8 @@
-# Yeni başlayanlar için Kolay HTML Site:
+# Yeni başlayanlar için Kolay HTML Site :
 
 HTML/CSS/JS ile yazılacak siteler için kullanılabilir.
 
-## Bu Dosya Hakkında:
+## Bu Dosya Hakkında :
 
 Bu dosya temel bir HTML sitesi oluşturmanıza yardım eder.
 
@@ -23,7 +23,7 @@ Favicon'un kullanım örneği:
 Bu şekilde faviconunuzu kullanabilirsiniz.
 
 
-### HTML
+### HTML :
 
 - `<!DOCTYPE html>` Tarayıcıya aşağıdakilerin html kodu olduğunu bildirmek için bir HTML dosyasının başlangıcında gerekir.
 
@@ -35,10 +35,15 @@ Bu şekilde faviconunuzu kullanabilirsiniz.
 
 - Dosyaya JavaScript ve CSS dosyası ekledim ve bunlar siz kodlarınızı eklediğinizde düzgün çalışacaktır.
 
- ## CSS
+ ## CSS : 
 
 - `box-sizing: border-box;` öğelerin boyutunu hesaplamak içi kulllanılır ve size daha güzel bir boyut ayarlar.
 
 - `text-rendering`, `-webkit-font-smoothing`, `-moz-osx-font-smoothing`, `font-kerning` Bu özellikler tarayıcılarda daha iyi yazı tipi işlemeyi sağlarr ve bu özellikler yazı tiplerinin farklı tarayıcılarda ve işletim sistemlerinde tutarlı görünmesine yardım eder.
 
 - `-webkit-text-size-adjust: 100%;` Bu özellik sitenizin mobil cihazdan görüntülendiğinde dikey ve yatay mod arasında döndürülürken görüntülenen sayfanın en ve boy oranını değiştirmeden ekranın genişliğini doldurmak için ve sayfanın yakınlaştırılması için kullanılır.
+
+
+# Hediye :
+
+- Sizler için eğer ilginize çekerse diye bir animasyonlu yazı komutu bıraktım. Temelleri attıktan sonra bu kodu nasıl kullanıcağınızı anlayacağınıza inanıyorum.
