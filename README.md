@@ -12,7 +12,7 @@ Bu dosyada bir site oluşturmak için gereken dosyaları mevcuttur.
 2. [styles.css](styles.css) bu dosyaya "CSS" kodlarınızı yazmalısınız.
 3. [scripts.js](scripts.js) bu dosyaya "JavaScript" kodlarınızı yazmalısınız.
 
-- Bu dosya da favicon.ico da bulunur. Favicon sizin 16*16 boyutlarrına sahip sitenizin harf , resim ve simge şeklinde tasarlanan web sitesinin tanınmasına yardımcı olan sembollerdir.
+- Bu dosya da favicon.ico da bulunur. Favicon sizin 16*16 boyutlarına sahip sitenizin harf , resim ve simge şeklinde tasarlanan web sitesinin tanınmasına yardımcı olan sembollerdir.
 
 - Favicon tasarımınızı en güzel ve etkileyici şekilde oluşturarak web sitenizi daha güzel ve daha zengin hale getirebilirsiniz.
 
