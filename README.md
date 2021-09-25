@@ -37,7 +37,7 @@ Bu şekilde faviconunuzu kullanabilirsiniz.
 
  ## CSS : 
 
-- `box-sizing: border-box;` öğelerin boyutunu hesaplamak için kulllanılır ve size daha güzel bir boyut ayarlar.
+- `box-sizing: border-box;` öğelerin boyutunu hesaplamak için kullanılır ve size daha güzel bir boyut ayarlar.
 
 - `text-rendering`, `-webkit-font-smoothing`, `-moz-osx-font-smoothing`, `font-kerning` Bu özellikler tarayıcılarda daha iyi yazı tipi işlemeyi sağlarr ve bu özellikler yazı tiplerinin farklı tarayıcılarda ve işletim sistemlerinde tutarlı görünmesine yardım eder.
 
